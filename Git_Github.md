@@ -19,3 +19,5 @@ Commands in git
  your-email@example.com": This is the value you are setting for the user.email configuration. -->
 
  # When you make commits in Git, this email address will be recorded in the commit metadata, allowing others to see who made the changes. This is useful for tracking contributions and collaborating with others.
+
+ #making changes
